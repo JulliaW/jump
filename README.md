@@ -1,12 +1,19 @@
 # Jump 🦘
 <h4 align="center">✨ Projeto desenvolvido a fim de estudar e treinar CSS e JS</h4>
 
+<div align="center">
+ 
+ ![Mario Jump - Google Chrome 2023-02-16 12-54-24 (online-video-cutter com)](https://user-images.githubusercontent.com/73961301/219424102-50ff9ef6-3f25-487d-8d35-0c77086fa863.gif)
+
+</div>
+
 <p align="center">
+ <a href="https://julliaw.github.io/run/">Jogue aqui</a> •
  <a href="#objetivos">Descrição</a> •
  <a href="#jogar">Como jogar</a> • 
  <a href="#status">Status</a> • 
  <a href="#tec">Tecnologias</a> • 
- <a href="#futuro">AAAA</a> • 
+ <a href="#futuro">Futuro</a> 
 </p>
 
 <h2 id="objetivos">📜 Descrição</h2>
