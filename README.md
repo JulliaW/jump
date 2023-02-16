@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
- <a href="https://julliaw.github.io/run/">Jogue aqui</a> •
+ <a href="https://julliaw.github.io/jump/">Jogue aqui</a> •
  <a href="#objetivos">Descrição</a> •
  <a href="#jogar">Como jogar</a> • 
  <a href="#status">Status</a> • 
