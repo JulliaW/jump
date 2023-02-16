@@ -1,9 +1,14 @@
 const mario = document.querySelector(".mario");
 const pipe = document.querySelector(".pipe");
 const cloud = document.querySelector(".cloud");
-const loser = document.querySelector(".loser");
+const gameOver = document.querySelector(".game-over");
+const gameBoard = document.querySelector(".game-board");
 
-const jump = () => {
+const teste = () => {
+  if (gameOver.style.display == "inline-block") {
+    recomecar();
+    return;
+  }
   mario.classList.add("jump");
 
   setTimeout(() => {
@@ -32,8 +37,15 @@ const loop = setInterval(() => {
     mario.style.width = "75px";
     mario.style.marginLeft = "50px";
 
+    gameOver.style.display = "inline-block";
+    //gameBoard.style.display = "none";
+
     clearInterval(loop);
   }
 }, 10);
 
-document.addEventListener("keydown", jump);
+function recomecar() {
+  location.reload();
+}
+
+document.addEventListener("keydown", teste);

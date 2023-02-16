@@ -37,6 +37,36 @@
     animation: jump 500ms ease-out;
 }
 
+.game-over {
+    padding: 100px 40%;
+    width: 100%;
+    position: absolute;
+    display: none;
+    background-color: transparent;
+}
+
+p {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 80px;
+    margin-bottom: 50px;
+    color: rgb(0, 31, 0);
+}
+
+.btn {
+    background-color: rgb(0, 180, 0);
+    color: lightgreen;
+    border: 0;
+    padding: 20px 40px;
+    border-radius: 5px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: darkgreen;
+    color: rgb(0, 180, 0);
+}
+
 @keyframes pipe-animation {
     from {
         right: -80px;
