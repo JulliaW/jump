@@ -22,7 +22,7 @@ O famoso jogo do dinossauro do Google agora na versão Mario🍄 e você nem pre
 
 <h2 id="jogar">🕹️ Como jogar</h2>
 
-* Para desviar dos obstáculos, pule usando qualquer tecla do seu teclado.
+* Para desviar dos obstáculos, pule usando qualquer tecla do seu teclado (ou utilize o click do mouse).
 
 * Caso bata em um deles, você verá a tela de game-over ☹️.
 
