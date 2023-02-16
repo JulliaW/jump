@@ -1,5 +1,5 @@
 # Jump 🦘
-<h4 align="center">✨ Projeto desenvolvido a fim de estudar e treinar CSS e JS</h4>
+<h4 align="center">✨ Projeto desenvolvido com a finalidade de estudar e treinar CSS e JS</h4>
 
 <div align="center">
  
@@ -28,7 +28,8 @@ O famoso jogo do dinossauro do google agora na versão Mario e você nem precisa
 
 * Não fique triste! Aperte o botão ou presssione qualquer tecla do teclado para voltar a jogar.
 
-* Você pode ver os sua pontuação aqui (foto)
+* Acompanhe a sua pontuação aqui:  
+* ![image](https://user-images.githubusercontent.com/73961301/219429024-a4814fa2-1780-4ade-a453-d40bebc1214d.png)
 
 * E o mais importante de tudo, divirta-se!
 
