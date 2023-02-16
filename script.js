@@ -57,4 +57,4 @@ function recomecar() {
 }
 
 document.addEventListener("keydown", press);
-//document.addEventListener("click", press);
+gameBoard.addEventListener("click", press);
