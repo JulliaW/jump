@@ -3,9 +3,11 @@ const pipe = document.querySelector(".pipe");
 const cloud = document.querySelector(".cloud");
 const gameOver = document.querySelector(".game-over");
 const gameBoard = document.querySelector(".game-board");
+const aScore = document.querySelector("#score");
+let score = 0;
 
 const press = () => {
-  if (gameOver.style.display == "inline-block") {
+  if (gameOver.style.display == "grid") {
     recomecar();
     return;
   }
@@ -17,6 +19,8 @@ const press = () => {
 };
 
 const loop = setInterval(() => {
+  gameOver.style.display = "none";
+
   const pipePosition = pipe.offsetLeft;
   const marioPosition = +window
     .getComputedStyle(mario)
@@ -37,10 +41,14 @@ const loop = setInterval(() => {
     mario.style.width = "75px";
     mario.style.marginLeft = "50px";
 
-    gameOver.style.display = "inline-block";
-    //gameBoard.style.display = "none";
+    gameOver.style.display = "grid";
 
     clearInterval(loop);
+  }
+
+  if (pipePosition <= 120 && pipePosition > 0 && marioPosition >= 80) {
+    score = score + 1;
+    aScore.textContent = score;
   }
 }, 10);
 

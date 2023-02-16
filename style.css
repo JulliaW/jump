@@ -12,6 +12,7 @@
     position: relative;
     overflow: hidden;
     background: linear-gradient(#B7CEEB, #E0F6FF);
+    display: inline-block;
 }
 
 .pipe {
@@ -38,11 +39,12 @@
 }
 
 .game-over {
-    padding: 100px 40%;
     width: 100%;
     position: absolute;
-    display: none;
+    display: grid;
     background-color: transparent;
+    place-content: center;
+    margin-top: 100px
 }
 
 p {
@@ -50,6 +52,29 @@ p {
     font-size: 80px;
     margin-bottom: 50px;
     color: rgb(0, 31, 0);
+}
+
+.teste {
+    display: grid;
+    justify-content: end;
+}
+
+.tip {
+    /* position: absolute; */
+    width: 50px;
+    place-self: center;
+}
+
+.score {
+    font-size: 20px;
+    color: rgb(0, 31, 0);
+    /* margin-top: 5px; */
+    margin-right: 10px;
+    margin-top: 5px;
+    border: 2px solid rgb(0, 31, 0);
+    border-radius: 3px;
+    background-color: rgba(0, 31, 0, 0.3);
+    font-family: 'Press Start 2P';
 }
 
 .btn {
@@ -60,6 +85,7 @@ p {
     border-radius: 5px;
     font-size: 30px;
     cursor: pointer;
+    place-self: center;
 }
 
 .btn:hover {
