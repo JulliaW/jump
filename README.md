@@ -18,15 +18,15 @@
 
 <h2 id="objetivos">📜 Descrição</h2>
 
-O famoso jogo do dinossauro do google agora na versão Mario e você nem precisa desligar sua internet para jogar.
+O famoso jogo do dinossauro do Google agora na versão Mario🍄 e você nem precisa desligar sua internet para jogar.
 
 <h2 id="jogar">🕹️ Como jogar</h2>
 
-* Para desviar dos obstaculos, pule usando qualquer tecla do seu teclado.
+* Para desviar dos obstáculos, pule usando qualquer tecla do seu teclado.
 
 * Caso bata em um deles, você verá a tela de game-over ☹️.
 
-* Não fique triste! Aperte o botão ou presssione qualquer tecla do teclado para voltar a jogar.
+* Não fique triste! Aperte o botão ou pressione qualquer tecla do teclado para voltar a jogar.
 
 * Acompanhe a sua pontuação aqui:  
 * ![image](https://user-images.githubusercontent.com/73961301/219429024-a4814fa2-1780-4ade-a453-d40bebc1214d.png)
@@ -55,7 +55,7 @@ Você deve estar se perguntando o que são as versões 1.1 e 2.0, então vamos f
 
 **1.1**
 - Atualmente o jogo tem apenas uma velocidade. 
-- Nessa versão a ideia é que a velociada aumente conforme o tempo de jogo e/ou pela pontuação.
+- Nessa versão a ideia é que a velocidade aumente conforme o tempo de jogo e/ou pela pontuação.
 
 **2.0**
 - Muita gente gosta do Mario, mas ele não é o personagem preferido de todo mundo…
