@@ -50,4 +50,5 @@ Você deve estar se perguntando o que são as versões 1.1 e 2.0, então vamos f
 - Nessa versão a ideia é que a velociada aumente conforme o tempo de jogo e/ou pela - pontuação.
 
 **2.0**
-- Muita gente gosta do Mario, mas ele não é o personagem preferido de todo mundo… - - Nessa versão, a ideia é ter uma lista de opções que o jogador poderá escolher qual personagem ele vai querer jogar!
+- Muita gente gosta do Mario, mas ele não é o personagem preferido de todo mundo…
+- Nessa versão, a ideia é ter uma lista de opções que o jogador poderá escolher qual personagem ele vai querer jogar!
