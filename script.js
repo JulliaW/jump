@@ -4,7 +4,7 @@ const cloud = document.querySelector(".cloud");
 const gameOver = document.querySelector(".game-over");
 const gameBoard = document.querySelector(".game-board");
 
-const teste = () => {
+const press = () => {
   if (gameOver.style.display == "inline-block") {
     recomecar();
     return;
@@ -48,4 +48,4 @@ function recomecar() {
   location.reload();
 }
 
-document.addEventListener("keydown", teste);
+document.addEventListener("keydown", press);
