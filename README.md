@@ -12,8 +12,7 @@
  <a href="#objetivos">Descrição</a> •
  <a href="#jogar">Como jogar</a> • 
  <a href="#status">Status</a> • 
- <a href="#tec">Tecnologias</a> • 
- <a href="#futuro">Futuro</a> 
+ <a href="#tec">Tecnologias</a>
 </p>
 
 <h2 id="objetivos">📜 Descrição</h2>
@@ -35,28 +34,10 @@ O famoso jogo do dinossauro do Google agora na versão Mario🍄 e você nem pre
 
 <h2 id="status">⌛ Status do projeto</h2>
 
-:construction: Projeto em construção :construction:
-
-1.0 - Concluido ✅   
- 
-1.1 - Em andamento ⌛
-
-2.0 - Não iniciado 🛑
+:white_check_mark: Projeto concluído :white_check_mark:
 
 <h2 id="tec">💻 Tecnologias</h2>
 
 ``HTML``
 ``CSS``
 ``JS``
-
-<h2 id="futuro">🔮 O que vem por ai…</h2>
-
-Você deve estar se perguntando o que são as versões 1.1 e 2.0, então vamos falar um pouco delas…
-
-**1.1**
-- Atualmente o jogo tem apenas uma velocidade. 
-- Nessa versão a ideia é que a velocidade aumente conforme o tempo de jogo e/ou pela pontuação.
-
-**2.0**
-- Muita gente gosta do Mario, mas ele não é o personagem preferido de todo mundo…
-- Nessa versão, a ideia é ter uma lista de opções que o jogador poderá escolher qual personagem ele vai querer jogar!
